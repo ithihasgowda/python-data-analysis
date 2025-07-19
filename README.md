@@ -1,4 +1,4 @@
-# python-data-analysis
+# python-netflixdata-analysis
 netflix movie analysis.
 Netflix Movie Analysis Using Python
 Analyzing Netflix movies with Python involves data cleaning, exploration, and visualization to uncover trends and insights.
